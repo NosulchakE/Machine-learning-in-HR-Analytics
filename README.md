@@ -1,4 +1,8 @@
 # Machine-learning-in-HR-Analytics
+
+ссылка на проект: https://colab.research.google.com/drive/1s2k5scJgcTDc-q0ozRVeYh4gTWt-Kxey?usp=sharing
+
+
 ****ПРОЕКТ.**** "Машинное обучение (ML) в HR-аналитике"
 
 **ПОСТАНОВКА ЗАДАЧИ**
